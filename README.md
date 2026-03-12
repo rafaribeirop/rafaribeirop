@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/PtEEgXQH_pkAAAAi/fluttershy-mlp.gif" width="250px" align="right">
+
 ## Oii, eu sou a Rafa (｡•ᴗ•｡)
 
 🎮 Programação de Jogos — SENAI (cursando)  

@@ -1,4 +1,3 @@
-![Header](./github-header-banner.png)
 
 ## Oii, eu sou a Rafa (｡•ᴗ•｡)
 

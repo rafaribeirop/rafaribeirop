@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/PtEEgXQH_pkAAAAi/fluttershy-mlp.gif" width="250px" align="center">
+![Header](./github-header-banner.png)
 
 ## Oii, eu sou a Rafa (｡•ᴗ•｡)
 

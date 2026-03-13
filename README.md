@@ -27,9 +27,7 @@
   </a>
   
   <!-- Email -->
-  <a href="mailto:rafaellaribeirop07@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-ff99cc?style=for-the-badge&logoColor=white" alt="Email" />
-  </a>
+  <p>📧 rafaellaribeirop07@gmail.com</p>
 
 </div>
 

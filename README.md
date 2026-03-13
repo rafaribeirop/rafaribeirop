@@ -26,7 +26,7 @@
   <p>
     📱 <strong>Social Media Hub:</strong>
     <a href="https://rafaribeirop.github.io/projeto-social/" target="_blank">
-    Visit myv page 
+    Visit my page 
     </a>
   </p>
   

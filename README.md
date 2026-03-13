@@ -17,25 +17,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rafaribeirop&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaribeirop&layout=compact&theme=radical" />
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-  
+ 
 </div>
-
 <div align="center">
-
-  <!-- LinkedIn -->
+  
+   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rafaella-ribeiro-pereira-a6aaa13b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-pink?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-ff99cc?style=for-the-badge&logoColor=white" alt="LinkedIn" />
   </a>
-
+  
   <!-- Email -->
   <a href="mailto:rafaellaribeirop07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Email-pink?style=for-the-badge&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-ff99cc?style=for-the-badge&logoColor=white" alt="Email" />
   </a>
 
 </div>
- 
-
-
-
-
 

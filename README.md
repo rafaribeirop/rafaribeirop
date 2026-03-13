@@ -22,11 +22,11 @@
 <div align="center">
   
   <!-- project -->
-    <h2> 🍰 Connect with me ^^</h2>
+    <h2> 🍰 Connect with me ^^ </h2>
   <p>
     📱 <strong>Social Media Hub:</strong>
     <a href="https://rafaribeirop.github.io/projeto-social/" target="_blank">
-    Visit my social media page
+    Visit myv page 
     </a>
   </p>
   

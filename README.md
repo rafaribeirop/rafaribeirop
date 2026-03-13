@@ -21,10 +21,21 @@
 </div>
 <div align="center">
   
+  <!-- project -->
+    <h2> 🍰 Connect with me ^^</h2>
+  <p>
+    📱 <strong>Social Media Hub:</strong>
+    <a href="https://rafaribeirop.github.io/projeto-social/" target="_blank">
+    Visit my social media page
+    </a>
+  </p>
+  
    <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rafaella-ribeiro-pereira-a6aaa13b6/" target="_blank">
+  <p>
+    <a href="https://www.linkedin.com/in/rafaella-ribeiro-pereira-a6aaa13b6/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-ff99cc?style=for-the-badge&logoColor=white" alt="LinkedIn" />
-  </a>
+    </a>
+  </p>
   
   <!-- Email -->
   <p>📧 rafaellaribeirop07@gmail.com</p>

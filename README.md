@@ -7,7 +7,7 @@
   <img src="https://media.tenor.com/PtEEgXQH_pkAAAAi/fluttershy-mlp.gif" width="300px" />
   
   <!-- Introduction -->
-  <h2> 🍰 Hi I'm Rafa, welcome to my space :3</h1>  
+  <h2> 🍰 I'm Rafa, welcome to my space :3</h1>  
   <p>💻 Computer Science & Game Programming student</p>
   <p>🎀 I love learning new things and exploring creative projects</p>
   <p>🐰 Big fan of cute things >.< </p>
@@ -20,6 +20,20 @@
   
 </div>
 
+<div align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rafaella-ribeiro-pereira-a6aaa13b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-pink?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:rafaellaribeirop07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Email-pink?style=for-the-badge&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+ 
 
 
 

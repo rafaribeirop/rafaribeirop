@@ -14,22 +14,17 @@
     
   <!--Stats-->
   <h2>🍰 Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaribeirop&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaribeirop&layout=compact&theme=radical" />
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
- 
-</div>
-<div align="center">
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaribeirop&show_icons=true&theme=radical"/>
+
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaribeirop&layout=compact&theme=radical"/>
+</p>
   
   <!-- project -->
   <h2> 🍰 Connect with me ^^ </h2>
-  <p>
-    📱 <strong>Social Media Hub:</strong>
-    <a href="https://rafaribeirop.github.io/projeto-social/" target="_blank">
-    Visit my page 
-    </a>
-  </p>
-  
+
    <!-- LinkedIn -->
   <p>
     <a href="https://www.linkedin.com/in/rafaella-ribeiro-pereira-a6aaa13b6/" target="_blank">
